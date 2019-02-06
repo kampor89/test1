@@ -7,6 +7,7 @@
 int main()
 {
     std::cout << "Hello World!\n"; 
+	system("pause");
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
